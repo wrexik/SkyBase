@@ -95,3 +95,10 @@ So far Ive only made the footprint of the fan and the radxa ZERO 3W. This will b
 
 
 # 2025-06-27: Case modeling
+Ive added the rest of the footprints of the components. Im not really sure with the oled now, we will see. Here are the footprints:
+![footprints](/img/footprints2.png)
+
+Few hours later...
+
+And Ive kind of started with the case. I somehow lost track of time and kinda just pushed through the modeling. I now have the base nearly nearlyyyy done. But the top looks really nice. I will try to add the buttons and the oled screen now. Here is the current state of the case:
+
