@@ -1,27 +1,3 @@
-# SkyBase
-``An open-ipc video base station for SkyScan drone.  To recive video on the fly!``
-
-This will be an base station VTX for your OpenIPC drone. Ii will allow you to view video from the drone in real time. With the help of the Radxa ZERO 3W and a RTL8812AU WiFi module. It will also have an OLED display to show the status of the base station and buttons to control it.
-It will also allow you to record video from the drone to the base station. To the SD card. As a bonus you will be able to use it as a power bank to charge your devices. It will have a 2x 21700 battery holder and a power bank module!
-
-![sketch](/img/sketch.png)
-
-# Why?
-Its an project to my SkyScan drone. I wanted to have an base station so that I can show and share the video feed with others when flying. It will also allow me to easily record the video from the drone for later use.
-
-# How?
-The base station will be built around the Radxa ZERO 3W. It will use a RTL8812AU WiFi module to receive the video from the drone. The video will be streamed to the base station and displayed on an OLED screen. The base station will also have buttons to control to interact with the base station. For ease of use it will have an OLED display to show the status of the base station and the recording information.
-# Features
-- **Live video streaming**: Stream video from the drone to your device.
-- **Video recording**: Record video from the drone to the base station.
-- **OLED display**: Display status / recording information on the OLED screen.
-- **Buttons**: Control the base station with buttons.
-- **Power bank**: It can also be used as a power bank to charge your devices.
-
-![Drawing](/img/case.png)
-![Box](/img/extruded_case.png)
-  
-# Components
 | Component Name          | Description                                  | Price (USD) | Link                                                                 |
 |-------------------------|----------------------------------------------|-------------|----------------------------------------------------------------------|
 | Radxa ZERO 3W - 2GB 16GB eMMC with HAT        | Main board for the base station               | 23       | [Radxa ZERO 3W](https://www.aliexpress.com/item/1005008926850854.html)                           |
