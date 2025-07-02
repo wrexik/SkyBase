@@ -150,5 +150,9 @@ Here is the table with the components I will be using for the SkyBase project.
 | SD Card 128GB | For storage of video recordings | 15          | [SD Card](https://www.aliexpress.com/item/1005005947146666.html)                                 |
 | TOTAL                   |                                              | **92US$**     |                                                                      |
 
+# 07-02-2025: Final words before pitch
+Hey there, ive exported the box. And uploaded it into the 3D-files folder. Ive also made the README explain the project well. And added a bom with the same table as here. I hope yall like it. Im looking forward to building it!
 
+I will be continuing with desinging the case with the components on hand. So if you want to build it your self be ready for a guide and a final case design. I will be writing it all to this jornal :).
 
+Thanks HC!
