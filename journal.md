@@ -156,3 +156,14 @@ Hey there, ive exported the box. And uploaded it into the 3D-files folder. Ive a
 I will be continuing with desinging the case with the components on hand. So if you want to build it your self be ready for a guide and a final case design. I will be writing it all to this jornal :).
 
 Thanks HC!
+
+# 07-04-2025: Changes to get approved
+My project was reviewed, but I was missing the electronics in the drawing. I added them to the 3d and I will update the pictures here. Hopefully It will get accepted this time.
+I was told it is cool, well I knew that :P. Soo after these little changes I think it will be AOK! Now I will add the screenshots and update it also in the readme.
+
+> New screenshots:
+![top](/img/top.png)
+![front](/img/front.png)
+![back](/img/back.png)
+
+the work on the case will still continue, but now I will be able to order the components and start building it. I will be updating this journal with the progress of the build and the case design. So you can build it too!

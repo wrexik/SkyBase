@@ -18,9 +18,12 @@ The base station will be built around the Radxa ZERO 3W. It will use a RTL8812AU
 - **Buttons**: Control the base station with buttons.
 - **Power bank**: It can also be used as a power bank to charge your devices.
 
+# Components placeed in the case
+> Here are the screenshots of the current case design. It will be updated throughout the build. This is an requirment to get the project approved.
+![top](/img/top.png)
+![back](/img/back.png)
 ![Drawing](/img/case.png)
-![Box](/img/extruded_case.png)
-  
+
 # Components
 | Component Name          | Description                                  | Price (USD) | Link                                                                 |
 |-------------------------|----------------------------------------------|-------------|----------------------------------------------------------------------|
