@@ -20,6 +20,7 @@ The base station will be built around the Radxa ZERO 3W. It will use a RTL8812AU
 
 # Components placeed in the case
 > Here are the screenshots of the current case design. It will be updated throughout the build. This is an requirment to get the project approved.
+> Case project link -> [link](https://cad.onshape.com/documents/0a0955162997b1e0fcf5063b/w/129ca38103da982f2e7f65b6/e/cbac35946c9972fd88dca791?renderMode=0&uiState=6867cea3b292ac1f42b7a302)
 ![top](/img/top.png)
 ![back](/img/back.png)
 ![Drawing](/img/case.png)
