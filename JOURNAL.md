@@ -112,3 +112,26 @@ And Ive kind of started with the case. I somehow lost track of time and kinda ju
 ![case](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAyMywicHVyIjoiYmxvYl9pZCJ9fQ==--ae6ba9420b5a9b8cc17206392d0886c25ba36adb/case.png)
   
 
+## 11/3/2025 11:57 AM - Case progress  
+
+Ive made it so there is a lot of space for cables. Also a lot of holes for the air to flow. The top will be removable, so it will be easy to access the components inside. 
+There are mounts for the Radxa zero, wifi module and power bank module. I will be probably adding more mounts for the HDMI and USB ports. But that will be again easier to do when the components are in the case. But in the current state it should already work great. The 47,5x85 is a case for batteries. I will be using 2x 21700 batteries in it. The antennas will be mounted on the top of the case. On the right top side. There will be ufl to sma cable going from the wifi module to the antenna.
+So that it will support easy antenna replacement.
+Now I will be adding the buttons and the oled screen. The screen and buttons will be located in the space between the powerbank module and the wifi module. It will allow me to wire it to the GPIO pins easily. Still deciding how many buttons I will need. Because one might be just enough. And I will add status LEDs.
+
+Lets see how it goes.
+
+Okayyy and screen mount and buttons are now added. I will be now working on the links for the products to make a bom and and a table with all the components.
+I hope I fit in the 150us budget. I will be trying to keep it as low as possible. And optimize the components.
+
+![screen_buttons](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--b122d6c3b256299264d818790f13d7f24c0ef208/screen_buttons.png)
+
+
+I will also try to extrude the case to make somewhat of a preview for you :)
+
+It looks amazing actually! I will be adding the holes and stuff later on. But take a look at this:
+
+![extruded_case](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--18292380f21382b59c6a5fa917d1c5b61bbd8186/extruded_case.png)
+
+adding the table with the components later, see you soon!  
+
