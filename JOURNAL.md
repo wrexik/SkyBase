@@ -99,3 +99,16 @@ So far Ive only made the footprint of the fan and the radxa ZERO 3W. This will b
 ![footprints](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--263bc090fac05cf21f37c0ef732cdf1cd91963b1/footprints.png)
   
 
+## 11/3/2025 11:55 AM - Case modeling  
+
+Ive added the rest of the footprints of the components. Im not really sure with the oled now, we will see. Here are the footprints:
+
+![footprints2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--2788d92d212a46dc674a8b42cd989019148618a6/footprints2.png)
+
+Few hours later...
+
+And Ive kind of started with the case. I somehow lost track of time and kinda just pushed through the modeling. I now have the base nearly nearlyyyy done. But the top looks really nice. I will try to add the buttons and the oled screen now. Here is the current state of the case:
+
+![case](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAyMywicHVyIjoiYmxvYl9pZCJ9fQ==--ae6ba9420b5a9b8cc17206392d0886c25ba36adb/case.png)
+  
+
