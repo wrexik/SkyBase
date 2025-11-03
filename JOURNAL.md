@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 11/3/2025 - Inital idea & explanation  
+## 11/3/2025 11:20 AM - Inital idea & explanation  
 
 ## Initial Idea
 - small box with a Radxa ZERO 3W
@@ -24,5 +24,31 @@ The box will have a small fan to cool the Radxa ZERO 3W. The fan will be powered
 
 ![sketch](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxNywicHVyIjoiYmxvYl9pZCJ9fQ==--5ee87e03ce16bcee1008572a3cc46a2a81945006/sketch.png)
 
+  
+
+## 11/3/2025 11:21 AM - Planing the components and buttons  
+
+## Components
+- Radxa ZERO 3W
+- RTL8812AU on an external pcb, connected to the Radxa ZERO 3W via USB
+- Power bank module with USB output - 5V 3A 10000mAh
+- Small fan for cooling - 5V 0.2A
+- OLED display - 0.96" I2C 128x64
+- Buttons - 4x push buttons
+- Leds - might be replaced with the oled display
+
+## Buttons
+- channel increase
+- channel decrease
+- start/stop DVR
+- toggle bandwidth
+
+the pins 27 and 28 will be used by the oled display. 
+
+will be continuing in a minute...
+
+Now I will be drawing a little sketch of the idea I have in mind. It will show how I plan to make it. And also show the formfactor im aiming for. 
+Here is the sketch:
+![sketch (1)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--7384ebc6eced4565bb6f1b62f2be28296fcfd921/sketch%20(1).png)
   
 
